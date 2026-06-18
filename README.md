@@ -1,54 +1,64 @@
 
-## Olá! Eu sou o Enzo Giovanni 👋
+<div align="center">
+
+# Olá! Eu sou o Enzo Giovanni 👋
 
 🎓 Estudante de **Engenharia de Software**  
 💻 Focado em desenvolvimento de sistemas e aplicações  
-🚀 Buscando evoluir como desenvolvedor e conquistar minha primeira oportunidade na área de TI  
+🚀 Em busca da minha primeira oportunidade na área de TI  
 📚 Atualmente estudando **C#, Flutter, PHP, JavaScript e MySQL**
+
+</div>
 
 ---
 
 <div align="center">
   <a href="https://github.com/EnzoGiovanni01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnzoGiovanni01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGiovanni01&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoGiovanni01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGiovanni01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-### Tecnologias que estudo e utilizo
+## Tecnologias que estudo e utilizo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Enzo-Flutter" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Enzo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Enzo-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Enzo-JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Enzo-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Enzo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Enzo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Enzo-gif" height="150" src="https://raw.githubusercontent.com/EnzoGiovanni01/EnzoGiovanni01/main/assets/Pattern%20Perfect%20Loops%20GIF.gif">
-
-
+<div align="center"><br>
+  <img alt="Flutter" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img alt="Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="PHP" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br><br><br><br><br><br>
+---
+
+## Sobre mim
+
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🔭 Atualmente desenvolvendo projetos acadêmicos e pessoais</li>
+        <li>🌱 Aprendendo mais sobre desenvolvimento de software, banco de dados e aplicações web/mobile</li>
+        <li>💬 Tenho interesse em C#, Flutter, PHP, JavaScript, MySQL e desenvolvimento de sistemas</li>
+        <li>🎯 Objetivo: conquistar experiência prática e crescer na área de tecnologia</li>
+        <li>📫 Contato: <strong>giovanneenzo01@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img alt="Enzo-gif" height="180" src="https://raw.githubusercontent.com/EnzoGiovanni01/EnzoGiovanni01/main/assets/Pattern%20Perfect%20Loops%20GIF.gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Sobre mim
+## Conecte-se comigo
 
-- 🔭 Atualmente desenvolvendo projetos acadêmicos e pessoais
-- 🌱 Aprendendo mais sobre desenvolvimento de software, banco de dados e aplicações web/mobile
-- 💬 Tenho interesse em C#, Flutter, PHP, JavaScript, MySQL e desenvolvimento de sistemas
-- 🎯 Objetivo: conquistar experiência prática e crescer na área de tecnologia
-- 📫 Contato: **giovanneenzo01@gmail.com**
-
----
-
-### Conecte-se comigo
-
-<div> 
+<div align="center"> 
   <a href="mailto:giovanneenzo01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
@@ -61,4 +71,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-```
+

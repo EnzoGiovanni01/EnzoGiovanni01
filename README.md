@@ -27,8 +27,9 @@
   <img align="center" alt="Enzo-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Enzo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="right" alt="Enzo-gif" height="150" src="https://raw.githubusercontent.com/EnzoGiovanni01/EnzoGiovanni01/main/assets/Pattern%20Perfect%20Loops%20GIF.gif">
 
-  <img align="right" alt="Enzo-gif" height="150" src="https://raw.githubusercontent.com/EnzoGiovanni01/EnzoGiovanni01/principal/assets/Pattern%20Perfect%20Loops%20GIF.gif">
+
 </div>
 
 <br><br><br><br><br><br>

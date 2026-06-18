@@ -28,7 +28,7 @@
   <img align="center" alt="Enzo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Enzo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Enzo-gif" height="150" src="[https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm9heG5oOXM0a2kxODU0NmkweGVkdXdiaGVzbTFwamtlbG14M2dqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3h3yr4vwOced7pEGrb/giphy.gif)">
+  <img align="right" alt="Enzo-gif" height="150" src="https://raw.githubusercontent.com/EnzoGiovanni01/EnzoGiovanni01/principal/assets/Pattern%20Perfect%20Loops%20GIF.gif">
 </div>
 
 <br><br><br><br><br><br>

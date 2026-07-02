@@ -6,7 +6,7 @@
 🎓 Estudante de **Engenharia de Software**  
 💻 Focado em desenvolvimento de sistemas e aplicações  
 🚀 Em busca da minha primeira oportunidade na área de TI  
-📚 Atualmente estudando **C#, Flutter, PHP, JavaScript e MySQL**
+📚 Atualmente estudando **C#, Flutter**
 
 </div>
 

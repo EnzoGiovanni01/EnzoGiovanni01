@@ -14,8 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/EnzoGiovanni01">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EnzoGiovanni01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoGiovanni01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=EnzoGiovanni01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
   </a>
 </div>
 

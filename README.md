@@ -13,6 +13,7 @@
 ---
 
 <div align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=EnzoGiovanni01"></a>
   <a href="https://github.com/EnzoGiovanni01">
     <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=EnzoGiovanni01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
   </a>

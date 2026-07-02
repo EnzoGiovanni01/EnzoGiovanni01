@@ -13,9 +13,12 @@
 ---
 
 <div align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=anuraghazra"><img src="https://github-stats-extended.vercel.app/api?username=EnzoGiovanni01"></a>
-  <a href="https://github.com/EnzoGiovanni01">
+  <a href="https://github-stats-extended.vercel.app/api?username=EnzoGiovanni01"><img src="https://github-stats-extended.vercel.app/api?username=EnzoGiovanni01"></a>
+  <div align="center">
+    <p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EnzoGiovanni01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="EnzoGiovanni01" /></p>
     <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=EnzoGiovanni01&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
+    <p><img align="center" src="https://streak-stats.demolab.com/?user=EnzoGiovanni01&theme=dark&hide_border=false)<br/" /></p>
+</div>
   </a>
 </div>
 
